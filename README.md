@@ -1,4 +1,4 @@
-# testandoNuxt
+# Nuxtjs
 
 ## Build Setup
 
